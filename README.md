@@ -7,12 +7,12 @@ The project covers data preparation, feature engineering, model training, evalua
 
 
 # Dataset
-- **Source:** Superstore Sales Dataset (Kaggle)
-- **Type:** Retail transaction data
-- **Target variable:** Monthly Sales
-- **Time range:** Multiple years of historical sales data
+- Source: Superstore Sales Dataset (Kaggle)
+- Type: Retail transaction data
+- Target variable: Monthly Sales
+- Time range: Multiple years of historical sales data
 
-# Tools & Technologies
+# Tools and Technologies
 - Python
 - Pandas
 - NumPy
@@ -68,7 +68,32 @@ requirements.txt
 
 
 # Author
-**Paul Adeniyi**  
-MSc Applied Artificial Intelligence and Data Analytics  
+Paul Adeniyi Adesina 
+MSc – Applied Artificial Intelligence & Data Analytics
+Data Scientist/Analyst/ Aspiring Global Talent Visa Applicant  
+GitHub: https://github.com/Paul-Adeniyi
+LinkedIn: https://linkedin.com/in/paul-adeniyi-138b4b243
+
+# Data Source
+The dataset used in this project is the Superstore Sales Dataset, publicly available on Kaggle:
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+# Project Significance
+This project demonstrates the practical application of machine learning to a real-world business problem. Rather than focusing solely on model complexity, the project emphasises thoughtful feature engineering, model evaluation and clear interpretation of results.
+
+It highlights how even simple models, when applied appropriately can generate valuable insights and support informed decision-making in areas such as sales planning, budgeting and inventory management.
+
+# Future Improvements
+Potential enhancements to this project include:
+
+- Incorporating lag-based features (e.g., previous month sales, rolling averages)
+- Exploring advanced time-series models such as Prophet or ARIMA
+- Evaluating external factors such as promotions or holidays
+- Building an interactive dashboard using Power BI or Tableau
+- Deploying the model as a simple forecasting API
+
+These improvements could further enhance forecasting accuracy and business usability.
+
+
 
 
